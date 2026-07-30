@@ -10,7 +10,7 @@ Tanto en la carrera como por cuenta propia, me muevo entre el desarrollo de soft
 
 * **Lenguajes de programación y scripting:** C, Python, MATLAB, HTML.
 * **Hardware y simulación:** Arduino, LTspice.
-* **Software de desarrollo y entornos:** VS Code, CLion, CodeBlocks.
+* **Software de desarrollo y entornos:** VS Code, CLion, CodeBlocks, PyCharm.
 * **Bases de datos y virtualización:** MySQL, VirtualBox.
 
 ---
