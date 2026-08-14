@@ -1,6 +1,6 @@
 # Hi! I'm Jon 👋
 
-I'm a **Biomedical Engineering** student based in Cuenca (Spain). I'm passionate about the intersection between technology and medical sciences, focusing especially on the potential of **artificial intelligence**, **medical data management**, **machine learning**, and **genetics** to solve medical problems.
+I'm a 2nd year **Biomedical Engineering** student based in Cuenca (Spain). I'm passionate about the intersection between technology and medical sciences, focusing especially on the potential of **artificial intelligence**, **medical data management**, **machine learning**, and **genetics** to solve medical problems.
 
 ---
 
