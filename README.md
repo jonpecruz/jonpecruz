@@ -1,30 +1,30 @@
-# ¡Hola! Soy Jon 👋
+# Hi! I'm Jon 👋
 
-Soy estudiante de **Ingeniería Biomédica** en Cuenca (España). Me apasiona la intersección entre la tecnología y las ciencias médicas, centrándome especialmente en el potencial de la **inteligencia artificial**, el **manejo de datos médicos**, el **machine learning** y la **genética** para resolver problemas médicos.
-
----
-
-### 🛠️ Tecnologías y Herramientas
-
-Tanto en la carrera como por cuenta propia, me muevo entre el desarrollo de software, el análisis de datos y el diseño/simulación de hardware:
-
-* **Lenguajes de programación y scripting:** C, Python, MATLAB, HTML.
-* **Hardware y simulación:** Arduino, LTspice.
-* **Software de desarrollo y entornos:** VS Code, CLion, CodeBlocks, PyCharm.
-* **Bases de datos y virtualización:** MySQL, VirtualBox.
+I'm a **Biomedical Engineering** student based in Cuenca (Spain). I'm passionate about the intersection between technology and medical sciences, focusing especially on the potential of **artificial intelligence**, **medical data management**, **machine learning**, and **genetics** to solve medical problems.
 
 ---
 
-### 🧠 Intereses y en qué me enfoco
+## 🛠️ Technologies & Tools
 
-* **Prompt Engineering:** Experimentando con optimización de prompts y aplicaciones prácticas de distintos modelos de IA en el día a día.
-* **Bioinformática:** Con muchas ganas de empezar a aplicar algoritmos de Machine Learning al análisis genético y de datos biomédicos.
-* **Electrónica:** Entender como funciona el hardware que usamos día a día.
+Both through my degree and self-directed learning, I work across software development, data analysis, and hardware design/simulation:
+
+* **Programming & scripting languages:** C, Python, MATLAB, HTML.
+* **Hardware & simulation:** Arduino, LTspice.
+* **Development software & environments:** VS Code, CLion, CodeBlocks, PyCharm.
+* **Databases & virtualization:** MySQL, VirtualBox.
 
 ---
 
-### 📬 Conectar
+## 🧠 Interests & Focus Areas
 
-Si te interesa la bioingeniería, la IA o quieres colaborar en algún proyecto, puedes encontrarme por aquí:
+* **Prompt Engineering:** Experimenting with prompt optimization and practical, day-to-day applications of various AI models.
+* **Bioinformatics:** Eager to start applying Machine Learning algorithms to genetic and biomedical data analysis.
+* **Electronics:** Understanding how the hardware we use every day works.
+
+---
+
+## 📫 Connect
+
+If you're interested in bioengineering, AI, or want to collaborate on a project, you can find me here:
 
 * **Instagram:** [@jonpecruz_](https://instagram.com/jonpecruz_)
