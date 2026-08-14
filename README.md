@@ -19,7 +19,7 @@ Both through my degree and self-directed learning, I work across software develo
 
 * **Prompt Engineering:** Experimenting with prompt optimization and practical, day-to-day applications of various AI models.
 * **Bioinformatics:** Eager to start applying Machine Learning algorithms to genetic and biomedical data analysis.
-* **Electronics:** Understanding how the hardware we use every day works.
+* **Personal & Academic Projects:** Building web apps, custom tools, and AI integrations both inside and outside of my studies.
 
 ---
 
